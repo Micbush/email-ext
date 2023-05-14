@@ -21,6 +21,9 @@ function Header() {
           <li className="nav-item">
             <a className="nav-link" href="/email-extractor">Email Extractor</a>
           </li>
+          <li className="nav-item">
+            <a className="nav-link" href="/email-verifier">Email Verifier</a>
+          </li>
         </ul>
       </div>
     </nav>
